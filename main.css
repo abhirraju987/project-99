@@ -1,0 +1,17 @@
+.dev{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(42, 165, 128);
+}
+
+#result22:hover{
+  border-radius: 100px;
+  color: brown;
+}
+
+#result33:hover{
+    border-radius: 100px;
+    color: brown;
+  }
